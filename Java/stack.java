@@ -2,7 +2,7 @@ import java.util.Stack;
 
 public class StackEmptyMethodExample  
   {  
-  
+//   Driver Function starts
     public static void main(String[] args)   
       {  
       
