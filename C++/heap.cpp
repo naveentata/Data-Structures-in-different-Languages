@@ -133,6 +133,7 @@ void swap(int *x, int *y)
 } 
   
 // Driver program to test above functions 
+// Main function starts
 int main() 
 { 
     MinHeap h(11); 
