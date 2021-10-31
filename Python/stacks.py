@@ -1,4 +1,4 @@
-
+#stack array declaration
 stack = [] 
   
 # append() function to push 
@@ -12,7 +12,7 @@ print(stack)
   
 # pop() fucntion to pop 
 # element from stack in  
-# LIFO order 
+# LIFO(Last In First Order) order 
 print('\nElements poped from stack:') 
 print(stack.pop()) 
 print(stack.pop()) 
